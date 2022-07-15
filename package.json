@@ -1,0 +1,23 @@
+{
+  "name": "drum-kit-starting-files",
+  "version": "1.0.0",
+  "description": "My drum set website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nisargno1/Drum_Kit.git"
+  },
+  "author": "Nisarg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nisargno1/Drum_Kit/issues"
+  },
+  "homepage": "https://github.com/Nisargno1/Drum_Kit#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
